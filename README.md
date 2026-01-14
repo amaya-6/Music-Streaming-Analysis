@@ -71,14 +71,3 @@ The dashboard is designed in a **Spotify-style theme** and focuses on clear busi
 
 ---
 
-## 📁 Repository Structure
-
-📦 Music-Streaming-Analysis
-┣ 📂 data
-┃ ┗ spotify_tracks.csv
-┣ 📂 images
-┃ ┗ dashboard_screenshots.png
-┣ 📄 Music_Streaming_Analysis.pbix
-┗ 📄 README.md
-
-
